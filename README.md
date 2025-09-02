@@ -13,7 +13,7 @@ This project is a simple **AI-powered Code Generator** that takes natural langua
 ## 🚀 How to Run
 1. Clone the repo
    ```bash
-   git clone https://github.com/YOUR-USERNAME/AI-Code-Generator.git
+   git clone https://github.com/Janexus/AI-Code-Generator.git
    cd AI-Code-Generator
    ```
 
